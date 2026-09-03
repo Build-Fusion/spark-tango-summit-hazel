@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Book Cricket",
+      "hasCanvas": false,
+      "bodyTextLen": 156,
+      "bodyTextHash": "aaf7618ab7856e79fa33e80f2fbd3933bebbdde361fe2a6e37e5c405aa349e64",
+      "bodyTextPrefix": "TWO PLAYERS · FIVE OVERS Book Cricket Flip a page. The last digi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Book Cricket",
+      "hasCanvas": false,
+      "bodyTextLen": 156,
+      "bodyTextHash": "aaf7618ab7856e79fa33e80f2fbd3933bebbdde361fe2a6e37e5c405aa349e64",
+      "bodyTextPrefix": "TWO PLAYERS · FIVE OVERS Book Cricket Flip a page. The last digi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
